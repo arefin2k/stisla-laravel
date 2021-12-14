@@ -1,0 +1,9 @@
+Demo Admin Login
+Email: admin@example.com
+Password: 1234
+Demo Editor Login
+Email: editor@example.com
+Password: 1234
+Demo User Login
+Email: user@example.com
+Password: 1234
